@@ -29,11 +29,7 @@ public class Tarefa {
   public void setDescricao(String descricao) {
     this.descricao = descricao;
   }
-  
-  public void setDataCriacao(LocalDate dataCriacao) {
-    this.dataCriacao = dataCriacao;
-  }
-  
+
   public LocalDate getDataCriacao() {
     return dataCriacao;
   }
