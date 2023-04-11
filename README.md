@@ -8,8 +8,16 @@ Ao executar o programa, o Gerenciador de Tarefas exibe 5 opçoes, o usuario deve
 4 - Exibir tarefas concluídas
 5 - Sair
 
-1 - Caso a opçao escolhida seja "Criar nova Tarefa" o programa vai executar o metodo criarNovaTarefa e solicitar ao usuario o Titulo e a descriçao da tarefa e salvar na 
+Opcao 1 - Caso a opçao escolhida seja "Criar nova Tarefa" o programa vai executar o metodo criarNovaTarefa e solicitar ao usuario o Titulo e a descriçao da tarefa e salvar na 
 lista tarefasPendentes
 
-2 - Caso o usuario escolha a opçao Concluir tarefa o programa
+Opcao  2 - Caso o usuario escolha a opçao Concluir tarefa o programa exibe as tarefas cadastrada para o usuario escolher qual deseja concluir.
+
+Opcao  3 - Essa opcao exibe as tarefas pendentes cadastradas no sistema.
+
+Opcao  4 - Essa opcao Exibe as tarefas que ja foram marcadas como concluidas.
+
+Opcao  5 - Encerra o programa.
+
+
 
